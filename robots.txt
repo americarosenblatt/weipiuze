@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://thaineechi.greatagainpoem.com/sitemap.xml
